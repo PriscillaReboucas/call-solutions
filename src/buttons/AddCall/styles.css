@@ -1,0 +1,28 @@
+
+.containerAddCall {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.addCall {
+    background-color: rgba(53, 206, 22, 0.716);
+    
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+    height: 40px;
+    margin-bottom: 0.5em;
+}
+
+.addCall:hover {
+    opacity: 0.8;
+}
+
+.addCall img {
+   width: 25px;
+   height: 25px;
+   margin-right: 5px;
+}

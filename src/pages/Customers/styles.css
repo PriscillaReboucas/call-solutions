@@ -1,0 +1,16 @@
+.form-customer {
+    max-width: 600px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+}
+
+.form-customer button {
+    max-width: 80px;
+    cursor: pointer;
+    background-color: #1A0C47;
+    color: #FFFEFA;
+    padding: 8px 20px;
+    border-radius: 5px;
+}

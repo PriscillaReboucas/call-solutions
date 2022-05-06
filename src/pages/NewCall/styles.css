@@ -1,0 +1,11 @@
+
+
+
+.plus {
+    border-radius: 3rem;
+}
+
+form textarea {
+    height: 100px;
+    resize: none;
+}

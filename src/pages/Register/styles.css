@@ -1,0 +1,29 @@
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #121212;
+}
+
+
+.register {
+    background-color: #1A0C47;
+    color: #FFFEFA;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.redirect{
+    color: #1A0C47;
+    padding: 15px;
+    width: 500px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 5px;
+}

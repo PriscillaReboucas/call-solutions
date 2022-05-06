@@ -1,0 +1,25 @@
+ <table className='table'>
+                        <thead>
+                            <tr>
+                                <th scope='col'>Code</th>
+                                <th scope='col'>Client</th>
+                                <th scope='col'>Subject</th>
+                                <th scope='col'>Status</th>
+                                <th scope='col'>Registered in</th>
+                                <th scope='col'></th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td >1</td>
+                                <td >Name Client</td>
+                                <td >Support</td>
+                                <td >Open</td>
+                                <td >29/04/2021</td>
+                                <td >
+                                    <CallDetails />
+                                    <EditCall />
+                                </td>
+                            </tr>
+                        </tbody>
+                    </table>

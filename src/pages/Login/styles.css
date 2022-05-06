@@ -1,0 +1,77 @@
+.app {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #121212;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+.containerLogin {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 30vw;
+    background-color: #C0C1C6;
+}
+
+.logo {
+    display: flex;
+    background-color: #1A0C47;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.logo img {
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+}
+
+.hidden-content {
+    display: none;
+}
+
+.input-content{
+    border: none;
+    margin-bottom: 20px;
+    padding: 15px;
+    width: 500px;
+    border-radius: 5px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.login-button {
+    background-color: #1A0C47;
+    color: #FFFEFA;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+
+.register-button {
+    color: #1A0C47;
+    padding: 15px;
+    width: 500px;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    margin-bottom: 5px;
+}
